@@ -6,6 +6,9 @@
 
 2. and thought html is another language but now i knew it ismark up language just it is making up things and setting them properly 
 
-
+# 08-07-2026 at 21:05
+** learnt actually what is <!doctype html>**
+it is an declararion to the browser that this is html why do we are using latest version of html 
+why so we need that ? it is because every browser have theere own rules so may set deafultly to another html version so we use this 
 
 
